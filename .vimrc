@@ -22,6 +22,7 @@ set ruler
 set showcmd
 set showmatch
 set ttimeoutlen=0
+set ttymouse=sgr
 set undodir=~/.vimundo
 set undofile
 set virtualedit=onemore
