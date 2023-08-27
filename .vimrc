@@ -25,6 +25,7 @@ set ttimeoutlen=0
 set ttymouse=sgr
 set undodir=~/.vimundo
 set undofile
+set viminfo='20,\"1000
 set virtualedit=onemore
 set writebackup
 
